@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "led.h": "c",
+        "driverlib.h": "c",
+        "comp_e.h": "c",
+        "aes256.h": "c",
+        "adc14.h": "c",
+        "sysctl_a.h": "c",
+        "interrupt.h": "c",
+        "uart.h": "c",
+        "cpu.h": "c",
+        "key4x4.h": "c",
+        "usart.h": "c",
+        "sysinit.h": "c"
+    }
+}
